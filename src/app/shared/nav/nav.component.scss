@@ -3,7 +3,7 @@
 .nav-primary
 {
   position: relative;
-  border-bottom: 1px solid $border-color-primary;
+  box-shadow: $shadow-nav;
   background: $background-color-primary;
 }
 
