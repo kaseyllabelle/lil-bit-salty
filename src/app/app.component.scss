@@ -1,0 +1,33 @@
+@import 'global-variables.scss';
+
+.skip-link
+{
+  position: absolute;
+  top: -50px;
+  left: 0;
+  border: 0;
+  padding: 5px 10px;
+  background: $accent-color-primary;
+  color: $font-color-primary-inverse;
+  font-size: .875rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: top 1s ease-out;
+  z-index: 100;
+
+  &:hover
+  {
+    background: $background-color-primary-inverse;
+    color: $font-color-primary-inverse;
+  }
+
+  &:focus
+  {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: top 0.5s ease-in;
+    outline: 0.125rem solid $background-color-primary;
+  }
+}

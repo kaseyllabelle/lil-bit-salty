@@ -1,0 +1,14 @@
+.about
+{
+  margin: 2rem;
+  padding: 0 2em;
+}
+
+@media only screen and (min-width: 56em)
+{
+  .about
+  {
+    max-width: 56em;
+    margin: 2rem auto;
+  }
+}

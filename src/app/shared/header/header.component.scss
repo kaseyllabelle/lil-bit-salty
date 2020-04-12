@@ -1,0 +1,17 @@
+@import 'global-variables.scss';
+
+header
+{
+  position: relative;
+  padding: 1rem;
+  background-color: $background-color-primary-inverse;
+  text-align: center;
+  z-index: 2;
+}
+
+h1
+{
+  margin: 0;
+  color: $font-color-primary-inverse;
+  font-size: 3rem;
+}

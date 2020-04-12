@@ -1,0 +1,81 @@
+@import 'global-variables.scss';
+
+.recipe
+{
+  margin: 2rem;
+  box-shadow: $shadow-card;
+  border-radius: 1rem;
+  padding: 2em;
+  background: $background-color-primary;
+}
+
+.recipe-section
+{
+  border-bottom: 1px solid $border-color-primary;
+}
+
+.ingredients,
+.instructions
+{
+  padding: 0;
+}
+
+.ingredient,
+.instruction
+{
+  margin-bottom: .5rem;
+  margin-left: 1.25rem;
+}
+
+.ingredient
+{
+  position: relative;
+  list-style-type: none;
+
+  &::before
+  {
+    content: "";
+    position: absolute;
+    left: -1.1275rem;
+    width: .5rem;
+    height: .5rem;
+    border: 1px solid $accent-color-primary;
+    border-radius: 100%;
+    transform: translateY(.55rem);
+  }
+}
+
+.instruction
+{
+  position: relative;
+  list-style-type: none;
+  counter-increment: list;
+
+  &::before
+  {
+    content: counter(list) ".";
+    position: absolute;
+    left: -1.5rem;
+    width: 1.25rem;
+    color: $accent-color-primary;
+    font-family: $font-family-heading;
+    text-align: right;
+  }
+}
+
+@media only screen and (min-width: 56em)
+{
+  .recipe
+  {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 0 4rem;
+    max-width: 56em;
+    margin: 2rem auto;
+  }
+
+  .recipe-name
+  {
+    grid-column: 1 / span 2;
+  }
+}

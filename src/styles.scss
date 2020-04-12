@@ -1,1 +1,98 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'global-variables.scss';
+
+html
+{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: $font-family-body;
+  color: $font-color-primary;
+  line-height: 1.5;
+}
+
+*,
+*:before,
+*:after
+{
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+*::selection
+{
+  background: $background-color-primary-inverse;
+  color: $font-color-primary-inverse;
+}
+
+html,
+body,
+app-root
+{
+  height: 100%;
+}
+
+body
+{
+  margin: 0;
+  background: rgba($background-color-primary-inverse, 0.025);
+}
+
+app-root
+{
+  display: flex;
+  flex-direction: column;
+}
+
+main
+{
+  overflow-y: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+  font-family: $font-family-heading;
+  text-transform: lowercase;
+}
+
+h2
+{
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+h3
+{
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.primary-link
+{
+  display: inline-block;
+  padding: 2px;
+  color: $font-color-primary;
+  font-size: .875rem;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  &:hover,
+  &.active
+  {
+    color: $accent-color-primary;
+  }
+
+  &:focus
+  {
+    outline: $focus-default;
+  }
+}

@@ -1,0 +1,25 @@
+// colors
+$paprika: #d43800;
+$pepper: #141414;
+$salt: #ffffff;
+
+// abstracted colors
+$accent-color-primary: $paprika;
+$background-color-primary: $salt;
+$background-color-primary-inverse: $pepper;
+$border-color-primary: $pepper;
+$font-color-primary: $pepper;
+$font-color-primary-inverse: $salt;
+
+// fonts
+$font-family-heading: 'Playfair Display', serif;
+$font-family-body: 'Open Sans', sans-serif;
+
+// shadows
+$shadow-header: 0 2px 4px rgba($pepper, 0.6);
+$shadow-card: 
+  0 1px 3px rgba($pepper, 0.06), 
+  0 1px 2px rgba($pepper, 0.12);
+
+// focus indicators
+$focus-default: 0.125rem solid $accent-color-primary;

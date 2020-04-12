@@ -1,0 +1,25 @@
+<article class="recipe" *ngFor="let recipe of recipes">
+  <h2 class="recipe-name">
+    {{ recipe.name }}
+  </h2>
+  <section>
+    <h3 class="recipe-section">
+      Ingredients
+    </h3>
+    <ul class="ingredients">
+      <li class="ingredient" *ngFor="let ingredient of recipe.ingredients">
+        {{ ingredient }}
+      </li>
+    </ul>
+  </section>
+  <section>
+    <h3 class="recipe-section">
+      Instructions
+    </h3>
+    <ol class="instructions">
+      <li class="instruction" *ngFor="let instruction of recipe.instructions">
+        {{ instruction }}
+      </li>
+    </ol>
+  </section>
+</article>
