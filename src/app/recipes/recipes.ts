@@ -358,6 +358,22 @@ export const recipes = [
     ]
   },
   {
+    name: "Sprouts",
+    ingredients: [
+      "Brussels sprouts, shaved or halved",
+      "3 tbsp tamari",
+      "1 1/2 tbsp honey",
+      "1 tbsp olive oil",
+    ],
+    instructions: [
+      "Preheat oven to 375° F",
+      "Prep Brussels sprouts",
+      "Pour tamari, honey, and oil over Brussels sprouts",
+      "Mix until coated",
+      "Roast ~30 minutes until Brussels sprouts are crispy"
+    ]
+  },
+  {
     name: "Tacos",
     ingredients: [
       "roma tomatoes, chopped and seeded",
