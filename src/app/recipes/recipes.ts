@@ -189,7 +189,8 @@ export const recipes = [
       "1/2 cup brown rice, dry",
       "2 cups broccoli, chopped",
       "2 cups cauliflower, chopped",
-      "1 cup carrots, chopped",
+      "1/2 cup carrots, chopped",
+      "1/2 cup asparagus, chopped",
       "1/2 cup low sodium soy sauce",
       "3 tbsp honey",
       "3-4 cloves garlic, minced"
@@ -205,7 +206,8 @@ export const recipes = [
       "Add garlic, cook 30 seconds",
       "Add vegetables, cook 2 minutes",
       "Add soy sauce and honey, cook 30 seconds",
-      "Serve over brown rice"
+      "Portion out 4.5 oz chicken and 1 cup vegetables",
+      "Serve over 1/2 cup brown rice"
     ]
   },
   {
