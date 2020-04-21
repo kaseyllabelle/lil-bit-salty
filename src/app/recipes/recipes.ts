@@ -75,6 +75,7 @@ export const recipes = [
       "In a small bowl, mix tahini, garlic powder, and lemon juice",
       "Slowly add water until the mixture becomes the consistency of dressing",
       "In a pan, sauté kale with olive oil, garlic powder, and salt",
+      "Portion out 4.5 oz chicken, 1/4 cup quinoa, 3/8 cup sweet potatoes, 1/2 cup roasted vegetables, and 1/2 cup kale",
       "Serve in a bowl, and drizzle with garlicky lemony tahini dressing"
     ]
   },
