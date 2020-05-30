@@ -252,9 +252,9 @@ export const recipes = [
       "3 stalks celery, chopped",
       "1 jalapeño, seeded & diced",
       "2 cloves garlic, diced",
-      "1 small can tomato sauce",
-      "1 medium can diced tomatoes",
-      "1/2 lb ground beef or ground turkey",
+      "2 small cans Muir Glen tomato sauce",
+      "1 medium can Muir Glen fire roasted diced tomatoes",
+      "1 lb ground beef or ground turkey",
       "1/2 tsp crushed red pepper",
       "1/2 tbsp oregano",
       "1/4 tsp cayenne pepper",
@@ -263,6 +263,7 @@ export const recipes = [
       "1/8 tsp pepper",
       "1/2 tbsp chili powder",
       "1/2 tbsp smoked paprika",
+      "Trader Joe's veggie & flaxseed tortilla chips"
     ],
     instructions: [
       "In a large pot, sauté zucchini, bell pepper, onion, celery, jalapeño, and garlic until onions are cooked",
