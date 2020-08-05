@@ -264,7 +264,7 @@ export const recipes = [
       "Strain again over honey",
       "Let cool until room temperature",
       "Refrigerate (up to 7 days)",
-      "Serve 12oz chai concentrate and 4oz 1% milk over ice"
+      "Serve 12 oz chai concentrate and 4 oz 1% milk over ice"
     ]
   },
   {
@@ -276,8 +276,8 @@ export const recipes = [
       "3 stalks celery, chopped",
       "1 jalapeño, seeded & diced",
       "2 cloves garlic, diced",
-      "2 small cans Muir Glen tomato sauce",
-      "1 medium can Muir Glen fire roasted diced tomatoes",
+      "1 15 oz can Muir Glen tomato sauce",
+      "1 14.5 oz can Muir Glen fire roasted diced tomatoes",
       "1 lb ground beef or ground turkey",
       "1/2 tsp crushed red pepper",
       "1/2 tbsp oregano",
