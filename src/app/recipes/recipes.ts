@@ -80,6 +80,30 @@ export const recipes = [
     ]
   },
   {
+    name: "Buttermilk (Air) Fried Chicken Salad",
+    ingredients: [
+      "1 avocado",
+      "1 bag baby spinach",
+      "1 bag baby kale",
+      "1 lb chicken breast tenders",
+      "2 cups buttermilk",
+      "flour",
+      "Trader Joe's Japanese style panko breadcrumbs",
+      "buttermilk ranch dressing",
+      "salt & pepper to taste",
+    ],
+    instructions: [
+      "Soak chicken breast tenders in buttermilk",
+      "Mix flour, SEASONINGS, salt, and pepper",
+      "Coat chicken breast tenders in seasoned flour",
+      "Coat chicken breast tenders in panko breadcrumbs",
+      "Place chicken breast tenders in air fryer basket",
+      "Prep kale, spinach, and avocado",
+      "Top salad with air friend chicken",
+      "Drizzle with buttermilk ranch dressing"
+    ]
+  },
+  {
     name: "Chicken & Quinoa Soup",
     ingredients: [
       "3 tbsp olive oil",
