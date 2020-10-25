@@ -1,5 +1,19 @@
 export const recipes = [
   {
+    name: "Apple Cider Vinaigrette",
+    ingredients: [
+      "1/4 cup apple butter",
+      "1/4 cup olive oil",
+      "1/4 cup apple cider vinegar",
+      "2 tbsp dijon mustard",
+      "pepper to taste"
+    ],
+    instructions: [
+      "Combine all ingredients until blended",
+      "Store in refrigerator up to 7 days"
+    ]
+  },
+  {
     name: "Apple Pie Filling",
     ingredients: [
       "5 green apples, peeled & sliced",
@@ -175,6 +189,31 @@ export const recipes = [
       "Drizzle potatoes with olive oil, sprinkle with garlic powder, rosemary, salt, and pepper",
       "Bake at 500° F on the top rack for 15 minutes",
       "Move to the lower rack, and bake for 30 minutes"
+    ]
+  },
+  {
+    name: "Harvest Bowl",
+    ingredients: [
+      "1 lb chicken tenders",
+      "1 lb brussels sprouts, blanched and halved",
+      "2-3 sweet potatoes, chopped",
+      "2-3 apples, chopped",
+      "1 bag kale",
+      "1 cup quinoa, dry",
+      "dijon mustard",
+      "olive oil",
+      "garlic powder",
+      "salt & pepper to taste"
+    ],
+    instructions: [
+      "In a small bowl, blend dijon mustard, olive oil, garlic powder, salt, and pepper",
+      "Brush chicken with sauce and marinate",
+      "On a baking sheet, drizzle brussels sprouts and sweet potatoes with olive oil and season with garlic powder, salt, and pepper",
+      "Roast chicken and vegetables at 375° F until cooked, flipping every ~10-15 minutes",
+      "Cook quinoa according to instructions",
+      "In a pan, sauté kale with olive oil, garlic powder, and salt",
+      "Portion out 4.5 oz chicken, 1/4 cup quinoa, 3/8 cup sweet potatoes, 1/2 cup roasted vegetables, and 1/2 cup kale",
+      "Serve in a bowl, and top with chopped apples and apple cider vinaigrette"
     ]
   },
   {
