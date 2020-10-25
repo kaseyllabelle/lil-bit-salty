@@ -3,8 +3,8 @@ export const recipes = [
     name: "Apple Cider Vinaigrette",
     ingredients: [
       "1/4 cup apple butter",
-      "1/4 cup olive oil",
       "1/4 cup apple cider vinegar",
+      "1/4 cup olive oil",
       "2 tbsp dijon mustard",
       "pepper to taste"
     ],
