@@ -10,7 +10,7 @@ export const recipes = [
     ],
     instructions: [
       "Combine all ingredients until blended",
-      "Store in refrigerator up to 7 days"
+      "Refrigerate (up to 7 days)"
     ]
   },
   {
