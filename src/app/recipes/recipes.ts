@@ -104,11 +104,12 @@ export const recipes = [
       "flour",
       "Trader Joe's Japanese style panko breadcrumbs",
       "buttermilk ranch dressing",
+      "Frontier Herb Fest seasoning",
       "salt & pepper to taste",
     ],
     instructions: [
       "Soak chicken breast tenders in buttermilk",
-      "Mix flour, SEASONINGS, salt, and pepper",
+      "Mix flour, Frontier Herb Fest seasoning, salt, and pepper",
       "Coat chicken breast tenders in seasoned flour",
       "Coat chicken breast tenders in panko breadcrumbs",
       "Place chicken breast tenders in air fryer basket",
@@ -422,6 +423,35 @@ export const recipes = [
       "While ground turkey is cooking, add vodka sauce and spinach to the large pan",
       "When ground turkey is cooked, add to the large pan",
       "Simmer, then serve"
+    ]
+  },
+  {
+    name: "Sheet Pan Chicken Fajitas",
+    ingredients: [
+      "1 lb chicken tenders",
+      "3 tbsp olive oil, divided",
+      "1 tbsp chili powder",
+      "1 1/2 tbsp garlic powder",
+      "1 1/2 tbsp onion powder",
+      "1 tsp paprika",
+      "1 tsp cumin",
+      "1 tsp oregano",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper",
+      "3 bell peppers",
+      "1 cup yellow onion, sliced",
+      "Trader Joe's thick & chunky salsa",
+      "Flour tortillas"
+    ],
+    instructions: [
+      "Combine spices and store in a jar",
+      "Preheat oven to 425° F",
+      "Line a large baking sheet with foil and place in the oven while prepping",
+      "Slice chicken tenders in half, coat with 1 tsbp olive oil and seasonings",
+      "Slice bell peppers and onions into strips, coat with 2 tbsp olive oil and seasonings",
+      "Remove baking sheet from oven, and add chicken, bell peppers, and onions",
+      "Bake 20-25 miuntes, or until chicken reaches 165° F",
+      "Serve with warm tortillas and salsa"
     ]
   },
   {
