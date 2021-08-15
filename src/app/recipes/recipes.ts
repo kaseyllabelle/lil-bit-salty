@@ -426,6 +426,21 @@ export const recipes = [
     ]
   },
   {
+    name: "Riced Cauliflower",
+    ingredients: [
+      "1 head cauliflower, roughly chopped",
+      "1 clove garlic, minced",
+      "1/2 in ginger root, peeled and minced",
+      "1 tsp olive oil"
+    ],
+    instructions: [
+      "Heat oil in a large skillet over medium-high heat",
+      "Sauté minced garlic and ginger until soft",
+      "Add riced cauliflower",
+      "Stir occasionally, and cook until riced cauliflower is crisp and tender"
+    ]
+  },
+  {
     name: "Sheet Pan Chicken Fajitas",
     ingredients: [
       "1 lb chicken tenders",
@@ -487,6 +502,43 @@ export const recipes = [
       "Prep tomatoes, spinach, and avocado",
       "In a small bowl, mix sour cream, Tapatío, and water to crema consistency",
       "Spray a small pan with oil, heat pan, and cook flour tortillas"
+    ]
+  },
+  {
+    name: "Teriyaki-Glazed Sweet Potatoes",
+    ingredients: [
+      "2 medium sweet potatoes, cubed",
+      "1/4 cup teriyaki sauce",
+      "2 tsp sriracha",
+      "Green onions, sliced",
+      "Sesame seeds, optional garnish"
+    ],
+    instructions: [
+      "Preheat oven to 400° F",
+      "Lightly spray a glass baking dish with oil",
+      "Toss cubed sweet potatoes with teriyaki sauce and sriracha",
+      "Roast 40 minutes, or until sweet potatoes are tender",
+      "Top with green onions and sesame seeds"
+    ]
+  },
+  {
+    name: "Teriyaki Bowls",
+    ingredients: [
+      "Teriyaki-glazed sweet potatoes",
+      "Riced cauliflower",
+      "2 cups fire-roasted corn",
+      "2 cups edamame, shelled and cooked",
+      "1 avocado, sliced or cubed",
+      "3 green onions, sliced",
+      "Sesame seeds, optional garnish",
+      "Teriyaki sauce, optional drizzle"
+    ],
+    instructions: [
+      "Prep teriyaki-glazed sweet potatoes",
+      "Prep riced cauliflower",
+      "Warm corn and edamame",
+      "Slice",
+      "Add 1 cup of riced cauliflower, 1/2 cup corn, 1/2 cup edamame, 1/4 avocado, and teriyaki-glazed sweet potatoes to a bowl. Drizzle with teriyaki sauce. Top with green onions and sesame seeds."
     ]
   }
 ];
