@@ -247,6 +247,24 @@ export const recipes = [
     ]
   },
   {
+    name: "Honey Garlic Sauce",
+    ingredients: [
+      "1/3 cup honey",
+      "1/3 cup tamari",
+      "1 tbsp sriracha",
+      "1 tbsp lime juice",
+      "2 cloves garlic, minced",
+      "1/4 cup water",
+      "2 tsp cornstarch"
+    ],
+    instructions: [
+      "In a small bowl, whisk together water and cornstarch until dissolved",
+      "Combine honey, tamari, sriracha, and lime juice in a small sauce pan over medium heat",
+      "When boiling, add the cornstarch mixture to the sauce pan",
+      "Bring to a simmer and cook ~2 minutes, until sauce thickens"
+    ]
+  },
+  {
     name: "Honey Garlic Stir Fry",
     ingredients: [
       `3 chicken breasts, cut into 1" cubes`,
@@ -456,7 +474,7 @@ export const recipes = [
       "3 bell peppers",
       "1 cup yellow onion, sliced",
       "Trader Joe's thick & chunky salsa",
-      "Flour tortillas"
+      "flour tortillas"
     ],
     instructions: [
       "Combine spices and store in a jar",
@@ -472,7 +490,7 @@ export const recipes = [
   {
     name: "Sprouts",
     ingredients: [
-      "Brussels sprouts, shaved or halved",
+      "brussels sprouts, shaved or halved",
       "3 tbsp tamari",
       "1 1/2 tbsp honey",
       "1 tbsp olive oil",
@@ -486,9 +504,34 @@ export const recipes = [
     ]
   },
   {
+    name: "Stir Fry",
+    ingredients: [
+      "bell peppers, bite sized",
+      "broccoli, bite sized",
+      "cauliflower, bite sized",
+      "baby carrots, cut lengthwise in 2 or 4, depending on size",
+      "zucchini, cubed",
+      "1 lb chicken, cubed (optional)",
+      "2 tbsp avocado oil",
+      "1/3 cup quinoa, dry"
+    ],
+    instructions: [
+      "Cook quinoa according to instructions",
+      "In a large pan, heat 1 tbsp oil over medium heat",
+      "Add vegetables, cook until tender", 
+      "Add garlic, cook 30 seconds",
+      "Remove vegetables from pan",
+      "Turn heat to high",
+      "Add 1 tbsp oil and chicken, sprinkle with salt and pepper",
+      "Cook chicken 3-4 minutes on each side until golden brown",
+      "Add garlic, cook 30 seconds",
+      "Serve with honey garlic sauce"
+    ]
+  },
+  {
     name: "Tacos",
     ingredients: [
-      "roma tomatoes, chopped and seeded",
+      "Roma tomatoes, chopped and seeded",
       "1 bag spinach",
       "1 avocado",
       "1 lb ground beef or ground turkey",
@@ -510,8 +553,8 @@ export const recipes = [
       "2 medium sweet potatoes, cubed",
       "1/4 cup teriyaki sauce",
       "2 tsp sriracha",
-      "Green onions, sliced",
-      "Sesame seeds, optional garnish"
+      "green onions, sliced",
+      "sesame seeds, optional garnish"
     ],
     instructions: [
       "Preheat oven to 400° F",
@@ -524,14 +567,14 @@ export const recipes = [
   {
     name: "Teriyaki Bowls",
     ingredients: [
-      "Teriyaki-glazed sweet potatoes",
-      "Riced cauliflower",
+      "teriyaki-glazed sweet potatoes",
+      "riced cauliflower",
       "2 cups fire-roasted corn",
       "2 cups edamame, shelled and cooked",
       "1 avocado, sliced or cubed",
       "3 green onions, sliced",
-      "Sesame seeds, optional garnish",
-      "Teriyaki sauce, optional drizzle"
+      "sesame seeds, optional garnish",
+      "teriyaki sauce, optional drizzle"
     ],
     instructions: [
       "Prep teriyaki-glazed sweet potatoes",
