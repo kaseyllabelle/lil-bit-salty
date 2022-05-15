@@ -114,7 +114,7 @@ export const recipes = [
       "Coat chicken breast tenders in panko breadcrumbs",
       "Place chicken breast tenders in air fryer basket",
       "Prep kale, spinach, and avocado",
-      "Top salad with air friend chicken",
+      "Top salad with air fried chicken",
       "Drizzle with buttermilk ranch dressing"
     ]
   },
@@ -218,6 +218,22 @@ export const recipes = [
     ]
   },
   {
+    name: "Harvest Salad",
+    ingredients: [
+      "gala apple, chopped",
+      "dried cranberries",
+      "candied pecans",
+      "power greens",
+      "cinnamon",
+      "apple cider vinaigrette"
+
+    ],
+    instructions: [
+      "Chop apples and coat with cinnamon",
+      "Combine ingredients in a bowl, and top with apple cider vinaigrette"
+    ]
+  },
+  {
     name: "Honey Dijon Balsamic Chicken & Veggies",
     ingredients: [
       "4 chicken breasts",
@@ -247,24 +263,6 @@ export const recipes = [
     ]
   },
   {
-    name: "Honey Garlic Sauce",
-    ingredients: [
-      "1/3 cup honey",
-      "1/3 cup tamari",
-      "1 tbsp sriracha",
-      "1 tbsp lime juice",
-      "2 cloves garlic, minced",
-      "1/4 cup water",
-      "2 tsp cornstarch"
-    ],
-    instructions: [
-      "In a small bowl, whisk together water and cornstarch until dissolved",
-      "Combine honey, tamari, sriracha, and lime juice in a small sauce pan over medium heat",
-      "When boiling, add the cornstarch mixture to the sauce pan",
-      "Bring to a simmer and cook ~2 minutes, until sauce thickens"
-    ]
-  },
-  {
     name: "Honey Garlic Stir Fry",
     ingredients: [
       `3 chicken breasts, cut into 1" cubes`,
@@ -290,6 +288,23 @@ export const recipes = [
       "Add soy sauce and honey, cook 30 seconds",
       "Portion out 4.5 oz chicken and 1 cup vegetables",
       "Serve over 1/2 cup brown rice"
+    ]
+  },
+  {
+    name: "Honey Garlic Stir Fry Sauce",
+    ingredients: [
+      "1/4 cup low sodium chicken broth or water",
+      "1/4 cup soy sauce",
+      "3 tbsp honey",
+      "2 tsp cornstarch",
+      "1 tbsp water",
+      "salt & pepper to taste"
+    ],
+    instructions: [
+      "In a small bowl, whisk together 1 tbsp water and cornstarch until dissolved",
+      "Combine chicken broth, soy sauce, and honey in a small sauce pan over medium heat",
+      "When boiling, add the cornstarch mixture to the sauce pan",
+      "Bring to a simmer and cook ~2 minutes, until sauce thickens"
     ]
   },
   {
@@ -509,11 +524,11 @@ export const recipes = [
       "bell peppers, bite sized",
       "broccoli, bite sized",
       "cauliflower, bite sized",
-      "baby carrots, cut lengthwise in 2 or 4, depending on size",
+      "shredded carrots",
       "zucchini, cubed",
       "1 lb chicken, cubed (optional)",
       "2 tbsp avocado oil",
-      "1/3 cup quinoa, dry"
+      "rice noodles or 1/3 cup quinoa, dry"
     ],
     instructions: [
       "Cook quinoa according to instructions",
@@ -525,7 +540,25 @@ export const recipes = [
       "Add 1 tbsp oil and chicken, sprinkle with salt and pepper",
       "Cook chicken 3-4 minutes on each side until golden brown",
       "Add garlic, cook 30 seconds",
-      "Serve with honey garlic sauce"
+      "Serve with stir fry sauce"
+    ]
+  },
+  {
+    name: "Stir Fry Sauce",
+    ingredients: [
+      "1/3 cup honey",
+      "1/3 cup tamari",
+      "1 tbsp sriracha",
+      "1 tbsp lime juice",
+      "2 cloves garlic, minced",
+      "1/4 cup water",
+      "2 tsp cornstarch"
+    ],
+    instructions: [
+      "In a small bowl, whisk together water and cornstarch until dissolved",
+      "Combine honey, tamari, sriracha, and lime juice in a small sauce pan over medium heat",
+      "When boiling, add the cornstarch mixture to the sauce pan",
+      "Bring to a simmer and cook ~2 minutes, until sauce thickens"
     ]
   },
   {
@@ -562,6 +595,22 @@ export const recipes = [
       "Toss cubed sweet potatoes with teriyaki sauce and sriracha",
       "Roast 40 minutes, or until sweet potatoes are tender",
       "Top with green onions and sesame seeds"
+    ]
+  },
+  {
+    name: "Tzatziki",
+    ingredients: [
+      "1/2 cup cucumber, grated",
+      "1 cup Green Mountain plain Greek yogurt",
+      "1 tbsp lemon juice",
+      "1/2 tbsp olive oil",
+      "1 clove garlic, grated",
+      "1/4 tsp sea salt",
+      "1 tbsp dill, chopped"
+    ],
+    instructions: [
+      "Grate cucumber",
+      "Combine ingredients"
     ]
   },
   {
