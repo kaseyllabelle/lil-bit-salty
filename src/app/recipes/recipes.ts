@@ -193,6 +193,41 @@ export const recipes = [
     ]
   },
   {
+    name: "Fire Roasted Chicken & Veggies",
+    ingredients: [
+      "1 lb chicken tenders",
+      "1 md or 2 sm summer squash, cut into moons",
+      "1 md or 2 sm zucchini, cut into moons",
+      "1 sm sweet onion, cubed",
+      "1 can fire roasted tomatoes",
+      "minced garlic",
+      "3 tbsp olive oil",
+      "3 tbsp balsamic",
+      "2 tbsp honey",
+      "1 tbsp dijon mustard",
+      "1 tbsp lemon juice",
+      "oregano",
+      "basil",
+      "garlic powder",
+      "onion powder",
+      "crushed red pepper",
+      "salt & pepper to taste"
+    ],
+    instructions: [
+      "In a medium bowl, whisk together olive oil, balsamic, honey, dijon mustard, lemon juice, oregano, basil, garlic powder, onion powder, crushed red pepper, salt, and pepper",
+      "Set aside a small amount of marinade",
+      "In a large bowl, combine marinade and chicken", 
+      "Marinate for at least 30 minutes or overnight, mixing occasionally",
+      "In a large pan, heat oil over high heat",
+      "Cook chicken 3-4 minutes on each side until golden brown",
+      "Remove chicken from pan",
+      "Add summer squash, zucchini, and onions to the pan",
+      "Season lightly, and sauté until almost tender",
+      "Add minced garlic, and sauté until fragrant",
+      "Add fire roasted tomatoes and leftover marinade, and simmer until thickened"
+    ]
+  },
+  {
     name: "Harvest Bowl",
     ingredients: [
       "1 lb chicken tenders",
@@ -618,7 +653,7 @@ export const recipes = [
     ingredients: [
       "teriyaki-glazed sweet potatoes",
       "riced cauliflower",
-      "2 cups fire-roasted corn",
+      "2 cups fire roasted corn",
       "2 cups edamame, shelled and cooked",
       "1 avocado, sliced or cubed",
       "3 green onions, sliced",
