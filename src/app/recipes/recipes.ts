@@ -533,7 +533,7 @@ export const recipes = [
       "Slice chicken tenders in half, coat with 1 tsbp olive oil and seasonings",
       "Slice bell peppers and onions into strips, coat with 2 tbsp olive oil and seasonings",
       "Remove baking sheet from oven, and add chicken, bell peppers, and onions",
-      "Bake 20-25 miuntes, or until chicken reaches 165° F",
+      "Bake 20-25 minutes, or until chicken reaches 165° F",
       "Serve with warm tortillas and salsa"
     ]
   },
