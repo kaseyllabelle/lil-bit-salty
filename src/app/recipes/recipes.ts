@@ -60,6 +60,50 @@ export const recipes = [
     ]
   },
   {
+    name: "Balsamic Grilled Chicken",
+    ingredients: [
+      "3 tbsp balsamic vinaigrette",
+      "1 tsp smoked paprika",
+      "1/2 tsp garlic powder",
+      "1/2 tsp onion powder",
+      "1 lb chicken tenders"
+    ],
+    instructions: [
+      "Combine all ingredients and let sit for 1-4 hours",
+      "Grill chicken tenders ~5 minutes per side"
+    ]
+  },
+  {
+    name: "Balsamic Grilled Chicken & Peach Salad",
+    ingredients: [
+      "1 lb balsamic grilled chicken, sliced",
+      "2-3 peaches, quartered",
+      "2 bags butter lettuce",
+      "2 avocados",
+      "1 English cucumber, sliced",
+      "Drizzle balsamic vinaigrette"
+    ],
+    instructions: [
+      "Prepare balsamic vinaigrette",
+      "Prepare balsamic chicken and peaches and grill",
+      "Combine ingredients into a salad and drizzle with balsamic vinaigrette",
+      "Yields ~4 servings"
+    ]
+  },
+  {
+    name: "Balsamic Vinaigrette",
+    ingredients: [
+      "1/4 cup balsamic vinegar",
+      "2 tbsp dijon mustard",
+      "2 tbsp maple syrup",
+      "3 tbsp olive oil"
+    ],
+    instructions: [
+      "Combine all ingredients until blended",
+      "Refrigerate (up to 7 days)"
+    ]
+  },
+  {
     name: "Buddha Bowl",
     ingredients: [
       "1 bag broccoli, chopped",
@@ -99,7 +143,7 @@ export const recipes = [
       "1 avocado",
       "1 bag baby spinach",
       "1 bag baby kale",
-      "1 lb chicken breast tenders",
+      "1 lb chicken tenders",
       "2 cups buttermilk",
       "flour",
       "Trader Joe's Japanese style panko breadcrumbs",
@@ -108,11 +152,11 @@ export const recipes = [
       "salt & pepper to taste",
     ],
     instructions: [
-      "Soak chicken breast tenders in buttermilk",
+      "Soak chicken tenders in buttermilk",
       "Mix flour, Frontier Herb Fest seasoning, salt, and pepper",
-      "Coat chicken breast tenders in seasoned flour",
-      "Coat chicken breast tenders in panko breadcrumbs",
-      "Place chicken breast tenders in air fryer basket",
+      "Coat chicken tenders in seasoned flour",
+      "Coat chicken tenders in panko breadcrumbs",
+      "Place chicken tenders in air fryer basket",
       "Prep kale, spinach, and avocado",
       "Top salad with air fried chicken",
       "Drizzle with buttermilk ranch dressing"
@@ -491,6 +535,27 @@ export const recipes = [
       "While ground turkey is cooking, add vodka sauce and spinach to the large pan",
       "When ground turkey is cooked, add to the large pan",
       "Simmer, then serve"
+    ]
+  },
+  {
+    name: "Pineapple Teriyaki Grilled Chicken & Veggies",
+    ingredients: [
+      "1 lb chicken tenders",
+      "2 cups pineapple chunks",
+      "2 red bell peppers, diced",
+      "Teriyaki sauce",
+      "Avocado oil",
+      "Minced garlic",
+      "Salt to taste",
+      "1 box Near East original rice pilaf"
+    ],
+    instructions: [
+      "Combine pineapple, bell peppers, avocado oil, minced garlic, and salt",
+      "In a separate bowl, combine chicken tenders, teriyaki sauce, leftover pineapple juice, and minced garlic",
+      "Grill pineapple and bell peppers in a veggie basket until cooked",
+      "Grill chicken tenders ~5 minutes per side",
+      "Prepare rice pilaf",
+      "Add grilled chicken, pineapple, and bell peppers over rice pilaf and drizzle with teriyaki"
     ]
   },
   {
