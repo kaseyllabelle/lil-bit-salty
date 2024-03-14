@@ -189,6 +189,32 @@ export const recipes = [
     ]
   },
   {
+    name: "Chipotle Lime Grilled Chicken & Veggies",
+    ingredients: [
+      "1 lb chicken tenders",
+      "2 red bell peppers",
+      "2 zucchini",
+      "2 chipotle peppers in adobo sauce",
+      "3 cloves garlic, peeled and smashed",
+      "2 tbsp lime juice or 1/2 lime, juiced",
+      "1 tbsp avocado oil",
+      "1 tbsp honey",
+      "1/2 tsp salt",
+      "1/4 tsp pepper",
+      "1/4 tsp cumin"
+    ],
+    instructions: [
+      "Blend chipotle peppers, garlic, lime juice, avocado oil, honey, salt, pepper, and cumin until almost smooth",
+      "Combine marinade and chicken",
+      "Marinate chicken for 20 minutes or up to 2 hours",
+      "Slice bell peppers and zucchini into strips, coat with chipotle olive oil and spicy garlic sea salt",
+      "Grill bell peppers and zucchini in a veggie basket until cooked",
+      "Grill chicken tenders ~5 minutes per side",
+      "Prepare rice pilaf",
+      "Serve grilled chicken, bell peppers, and zucchini over rice pilaf"
+    ]
+  },
+  {
     name: "Chipotle Lime Blackened Chicken",
     ingredients: [
       "2 tbsp olive oil",
@@ -729,7 +755,7 @@ export const recipes = [
       "Prep teriyaki-glazed sweet potatoes",
       "Prep riced cauliflower",
       "Warm corn and edamame",
-      "Slice",
+      "Slice avocado",
       "Add 1 cup of riced cauliflower, 1/2 cup corn, 1/2 cup edamame, 1/4 avocado, and teriyaki-glazed sweet potatoes to a bowl. Drizzle with teriyaki sauce. Top with green onions and sesame seeds."
     ]
   }
